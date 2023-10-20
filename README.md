@@ -1,6 +1,6 @@
 # Overview
 
-My submission for a technical assessment from a popular company.
+My take on a technical assessment from a popular company.
 
 # Instructions
 
